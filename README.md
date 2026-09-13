@@ -1,8 +1,8 @@
 # meowdiocre
 
-Windows internals, hypervisors, and reverse engineering.
-I build research tools in C, C++, and Python.
+Windows and Linux internals, hypervisors, and reverse engineering.
 
+I enjoy using technology beyond how it was intended.
 ## Current research
 
 - [JohnSmith](https://github.com/meowdiocre/JohnSmith) · 2026 · Windows x64 research hypervisor with Intel VT-x/EPT and AMD SVM/NPT backends. [johnsmithctl](https://github.com/meowdiocre/johnsmithctl) is the companion control client.
